@@ -1,0 +1,10 @@
+{
+  "apps":[
+    {
+      "appId":"<10352817>",
+      "root":".",
+      "dependencyInstallCommand":"npm install",
+      "webBuildCommand":"npm run build"
+    }
+  ]
+}
