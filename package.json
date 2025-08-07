@@ -1,0 +1,13 @@
+{
+  "name": "upload-damages-and-photos",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"nothing to build\""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "keywords": []
+}
